@@ -25,6 +25,7 @@ Software com CRUD e Media dos alunos. <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Apache NetBeans IDE 17(Java)
+- JFrame Form
 - MySQl Workbench 8.0 CE(Necessario criar o banco de dados com as tabelas necessarias)
 - XAMPP Control Panel(Port:3306 or 3307)
 
