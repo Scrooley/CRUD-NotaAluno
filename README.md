@@ -1,4 +1,4 @@
-<h1 align="center"> CRUD-NotaAluno </h1>
+<h1 align="center"> CRUD NotaAluno </h1>
 
 <p align="center">
 Software com CRUD e Media dos alunos. <br/>
